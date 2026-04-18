@@ -1,0 +1,8 @@
+Employee,Department,Tool,Hours_Active,Tasks_Completed,License_Cost
+A,IT,Jira,2,1,5000
+B,IT,Jira,0,0,5000
+C,HR,Slack,1,0,3000
+D,Finance,Zoom,0,0,2000
+E,IT,Jira,5,3,5000
+F,HR,Slack,0,0,3000
+G,Finance,Zoom,2,1,2000
